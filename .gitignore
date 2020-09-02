@@ -1,3 +1,5 @@
 *.beam
 a.out
 *.so
+*.o
+*.s
