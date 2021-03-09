@@ -3,4 +3,4 @@ a.out
 *.so
 *.o
 *.s
-/target/
+target/
